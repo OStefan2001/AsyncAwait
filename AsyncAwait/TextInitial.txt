@@ -1,0 +1,70 @@
+What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+It has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of 
+Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software 
+like Aldus PageMaker including versions of Lorem Ipsum.
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page 
+when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, 
+as opposed to using 'Content here, content here', making it look like readable English. 
+Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, 
+and a search for 'lorem ipsum' will uncover many web sites still in their infancy. 
+Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. 
+It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. 
+Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, 
+looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, 
+and going through the cites of the word in classical literature, discovered the undoubtable source. 
+Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, 
+written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. 
+The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. 
+Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, 
+accompanied by English versions from the 1914 translation by H. Rackham.
+Where can I get some?
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, 
+by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, 
+you need to be sure there isn't anything embarrassing hidden in the middle of text. 
+All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, 
+combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. 
+The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquam sem vestibulum, vehicula justo quis, elementum libero. 
+Sed accumsan et ligula eget bibendum. Nunc scelerisque libero sit amet ante laoreet aliquam. Nunc porta dignissim enim, 
+eget ultricies neque condimentum ac. Sed sit amet quam nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, 
+per inceptos himenaeos. Aenean hendrerit orci sed arcu viverra bibendum. Proin convallis tempor lacinia. Fusce venenatis venenatis dapibus. 
+Maecenas suscipit, purus nec volutpat posuere, magna augue ultrices augue, id vulputate arcu elit vel lectus. 
+Suspendisse feugiat rutrum lacus. Aenean et tincidunt eros, nec faucibus enim. Phasellus non nulla consequat, 
+fringilla mi gravida, eleifend nisl. Cras massa nisl, ultrices vestibulum eros ut, tincidunt lacinia ligula. 
+Sed id elementum odio.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac risus eu felis ultricies sollicitudin ut a diam. 
+In hac habitasse platea dictumst. Nullam felis tellus, finibus sed eleifend a, sagittis eu tortor. Nullam elementum nisl et augue varius, 
+id pharetra tortor venenatis. Quisque sed nibh non lectus laoreet vehicula eu imperdiet turpis. 
+Sed posuere lobortis nibh. Sed in lectus justo. Vivamus eu nunc rutrum, sodales ante sed, fringilla turpis. 
+Vestibulum facilisis elit eros, sit amet efficitur dui sodales id. Nullam eu rhoncus lorem. Pellentesque ac bibendum diam.
+Vestibulum vitae ultrices lorem, id scelerisque urna. Aliquam ac facilisis libero, id imperdiet erat. 
+Nunc efficitur sapien quis vulputate feugiat. Vestibulum pellentesque gravida urna, a ornare enim varius ut. 
+Sed sodales vehicula ligula eu consectetur. Pellentesque volutpat quam sit amet quam venenatis, tempor consectetur sem congue. 
+Curabitur hendrerit quam lacus. Sed id ex vitae ante rutrum eleifend. Etiam non justo tristique, lacinia risus sed, pretium sem. 
+Praesent id iaculis eros. Nullam rutrum feugiat ligula, quis semper erat convallis a. Fusce eleifend leo vitae laoreet ornare. 
+Sed condimentum ultricies velit. Etiam aliquet faucibus ultricies. Donec tempor lobortis congue.
+Pellentesque molestie venenatis nibh eget luctus. Pellentesque leo lectus, scelerisque eget lorem et, tempus posuere felis. 
+Etiam sapien orci, faucibus eget euismod at, sollicitudin vel sapien. Ut aliquam finibus porta. Duis et diam sed elit ultrices euismod. 
+Aenean ac finibus augue. Fusce tincidunt pellentesque arcu vitae aliquam. Sed gravida ullamcorper sem in aliquet.
+Cras vitae mollis libero. Quisque mollis nec ante eu pulvinar. Aliquam ut erat a risus volutpat tempor at id odio. 
+Maecenas lacinia dapibus dui, in lacinia nulla elementum non. Duis at tellus id dolor venenatis semper vel non dui. 
+Nulla vestibulum odio purus, a ullamcorper lorem aliquam in. Fusce eleifend ullamcorper sapien lobortis vehicula. 
+Interdum et malesuada fames ac ante ipsum primis in faucibus. In risus dui, blandit vitae purus sit amet, 
+vestibulum sagittis metus. Nam euismod ullamcorper blandit. Curabitur fringilla lacinia libero sit amet tempor.
+Aliquam imperdiet sem id sem venenatis imperdiet. Quisque eu lacus non purus convallis congue sit amet eget nulla. 
+Duis egestas et diam vitae egestas. Nam in tempus felis. Nullam fermentum, lorem vel facilisis aliquet, ex ipsum tincidunt tellus, 
+vitae posuere justo justo vel tortor. Aliquam tristique vitae quam nec sodales. Nulla vel odio felis. 
+Aliquam efficitur sagittis enim, sit amet vulputate dui faucibus a. Proin ultrices urna ut tellus tempor, 
+sed consectetur magna suscipit. Proin non sapien rutrum, tempor lacus nec, dapibus urna. Maecenas gravida, 
+nunc sed vestibulum condimentum, massa ante hendrerit mi, ut sagittis dui tortor sed ligula. Donec vulputate consectetur dolor, 
+consequat sodales sapien dapibus ut. Curabitur aliquam semper ligula et interdum. 
+Vestibulum eu lacus quis libero cursus euismod eu eget ipsum.
